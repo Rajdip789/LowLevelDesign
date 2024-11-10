@@ -1,4 +1,4 @@
-package DesignPatterns.ObserverPattern.WhetherStation;
+package DesignPatterns.ObserverPattern.WeatherStation;
 
 public class AverageTemperatureDisplay implements Observer {
 
