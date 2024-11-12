@@ -1,4 +1,4 @@
-package DesignPatterns.ObserverPattern.WeatherStation;
+package com.DesignPatterns.ObserverPattern.WeatherStation;
 
 public interface Observer {
     public void update(int temperature, int humidity);

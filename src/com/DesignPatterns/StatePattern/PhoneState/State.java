@@ -1,4 +1,4 @@
-package DesignPatterns.StatePattern.PhoneState;
+package com.DesignPatterns.StatePattern.PhoneState;
 
 public abstract class State {
     protected Phone phone;

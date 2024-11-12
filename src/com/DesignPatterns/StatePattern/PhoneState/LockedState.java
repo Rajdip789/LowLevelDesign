@@ -1,4 +1,4 @@
-package DesignPatterns.StatePattern.PhoneState;
+package com.DesignPatterns.StatePattern.PhoneState;
 
 public class LockedState extends State {
     public LockedState(Phone phone) {

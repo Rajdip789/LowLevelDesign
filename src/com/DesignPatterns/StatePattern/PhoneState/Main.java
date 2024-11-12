@@ -1,4 +1,4 @@
-package DesignPatterns.StatePattern.PhoneState;
+package com.DesignPatterns.StatePattern.PhoneState;
 
 public class Main {
     public static void main(String[] args) {

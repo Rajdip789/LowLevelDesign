@@ -1,4 +1,4 @@
-package DesignPatterns.StatePattern.PhoneState;
+package com.DesignPatterns.StatePattern.PhoneState;
 
 public class OffState extends State {
     public OffState(Phone phone) {

@@ -1,4 +1,4 @@
-package DesignPatterns.ObserverPattern.WeatherStation;
+package com.DesignPatterns.ObserverPattern.WeatherStation;
 
 public class CurrentWeatherConditionDisplay implements Observer {
 

@@ -1,4 +1,4 @@
-package DesignPatterns.StatePattern.PhoneState;
+package com.DesignPatterns.StatePattern.PhoneState;
 
 public class ReadyState extends State {
     public ReadyState(Phone phone) {

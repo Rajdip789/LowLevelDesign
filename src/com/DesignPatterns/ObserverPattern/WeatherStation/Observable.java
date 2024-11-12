@@ -1,4 +1,4 @@
-package DesignPatterns.ObserverPattern.WeatherStation;
+package com.DesignPatterns.ObserverPattern.WeatherStation;
 
 public interface Observable {
     public void registerObserver(Observer observer);
