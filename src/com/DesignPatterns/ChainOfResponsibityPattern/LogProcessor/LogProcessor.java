@@ -8,7 +8,7 @@ public abstract class LogProcessor {
 
     LogProcessor nextLogProcessor;
 
-    LogProcessor(LogProcessor logProcessor) {w
+    LogProcessor(LogProcessor logProcessor) {
         this.nextLogProcessor = logProcessor;
     }
 
