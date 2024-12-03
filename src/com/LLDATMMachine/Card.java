@@ -7,7 +7,7 @@ public class Card {
     private int cardNumber;
     private int cvv;
     private int expiryDate;
-    private int cardHolderName;
+    private String cardHolderName;
     private UserBankAccount bankAccount;
 
     public boolean isCorrectPINEntered(int pin) {

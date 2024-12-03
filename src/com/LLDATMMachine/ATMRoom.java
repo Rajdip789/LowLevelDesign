@@ -44,7 +44,7 @@ public class ATMRoom {
         return card;
     }
 
-    private  UserBankAccount createBankAccount() {
+    private UserBankAccount createBankAccount() {
 
         UserBankAccount bankAccount = new UserBankAccount();
         bankAccount.setBalance(3000);
