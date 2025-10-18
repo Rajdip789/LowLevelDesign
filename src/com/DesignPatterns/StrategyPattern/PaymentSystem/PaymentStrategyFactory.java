@@ -4,10 +4,10 @@ import com.DesignPatterns.StrategyPattern.PaymentSystem.Strategy.PaymentStrategy
 
 import java.util.List;
 
-public class PaymentContext {
+public class PaymentStrategyFactory {
     List<PaymentStrategy> strategies;
 
-    public PaymentContext(List<PaymentStrategy> strategies) {
+    public PaymentStrategyFactory(List<PaymentStrategy> strategies) {
         this.strategies = strategies;
     }
 

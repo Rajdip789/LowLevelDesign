@@ -11,7 +11,7 @@ public class PaymentSystem {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        PaymentContext paymentContext = new PaymentContext(
+        PaymentStrategyFactory paymentContext = new PaymentStrategyFactory(
                 Arrays.asList(
                         new CreditCardStrategy("Rajdip Pal", "1234567890123456"),
                         new DebitCardStrategy("Rajdip Pal", "1234567890123456"),
