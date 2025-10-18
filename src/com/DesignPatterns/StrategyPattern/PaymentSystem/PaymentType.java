@@ -1,4 +1,4 @@
-package com.DesignPatterns.StrategyPattern.PaymentSystem.Strategy;
+package com.DesignPatterns.StrategyPattern.PaymentSystem;
 
 public enum PaymentType {
     CREDIT_CARD,
